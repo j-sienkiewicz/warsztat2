@@ -29,11 +29,10 @@ Dostępne na Google Drive (GD, link na Slacku)
 
 ### Tydzień 1 (25 lutego 2025)
 
-  * [prezentacja prowadzącego oraz zarys projektu](https://htmlpreview.github.io/?https://github.com/j-sienkiewicz/warsztat2/blob/main/wyklad_prez.html) na wykładzie,
   * prezentacja ["od hipotezy badawczej do wyników i konkluzji"](https://github.com/j-sienkiewicz/warsztat2/blob/main/cytowania_a_tekst.pdf)
 
 ### Tydzień 2 (4 marca 2025)
 
-  * EDA - przypomnienie, 
+  * [EDA - przypomnienie](https://github.com/j-sienkiewicz/warsztat2/blob/main/warbad2_2.pdf), 
   * prezentacja danych (GD),
   * wstępna analiza danych (GD)
