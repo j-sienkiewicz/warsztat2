@@ -29,8 +29,8 @@ Dostępne na Google Drive (GD, link na Slacku)
 
 ### Tydzień 1 (25 lutego 2025)
 
-  * prezentacja prowadzącego oraz zarys projektu na wykładzie,
-  * prezentacja "od hipotezy badawczej do wyników i konkluzji"
+  * [prezentacja prowadzącego oraz zarys projektu](https://github.com/j-sienkiewicz/warsztat2/blob/main/wyklad_prez.html) na wykładzie,
+  * prezentacja ["od hipotezy badawczej do wyników i konkluzji"](https://github.com/j-sienkiewicz/warsztat2/blob/main/cytowania_a_tekst.pdf)
 
 ### Tydzień 2 (4 marca 2025)
 
